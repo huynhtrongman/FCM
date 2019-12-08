@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "1028813605507",
+    "firebase_url": "https://neon-coast-2476093.firebaseio.com",
+    "project_id": "neon-coast-2476093",
+    "storage_bucket": "neon-coast-2476093.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028813605507:android:343b9aca77939b9fb329b6",
+        "android_client_info": {
+          "package_name": "com.huynhtrongman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028813605507-tejda8i0uqgn7ku06jnhrk7tuaav0ga4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.huynhtrongman",
+            "certificate_hash": "e75d0f53d2e4e07c69ca140cbdd95a32820686f9"
+          }
+        },
+        {
+          "client_id": "1028813605507-4qjl0623di0aj5eic7lgca9raku82tjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8abZXkskIeREhcrr5llj07SikXTubdb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028813605507-4qjl0623di0aj5eic7lgca9raku82tjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1028813605507:android:a6ed30f424cbf250b329b6",
+        "android_client_info": {
+          "package_name": "com.huynhtrongman.fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1028813605507-lgrjbkkk87kuutd8vsrr2t7hisve2ssj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.huynhtrongman.fcm",
+            "certificate_hash": "e75d0f53d2e4e07c69ca140cbdd95a32820686f9"
+          }
+        },
+        {
+          "client_id": "1028813605507-4qjl0623di0aj5eic7lgca9raku82tjc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8abZXkskIeREhcrr5llj07SikXTubdb4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1028813605507-4qjl0623di0aj5eic7lgca9raku82tjc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
